@@ -1,0 +1,22 @@
+{
+    "manifest": {
+        "author": "._.serinova._.",
+        "name": "Dracula",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "mention_highlight": -11121308,
+        "active_channel": -11121308,
+        "background": -14144970,
+        "background_secondary": -14408143,
+        "accent": -4353031,
+        "input_background": -14671316
+    },
+    "colors": {},
+    "drawables": {},
+    "raw": {},
+    "raws": {},
+    "drawable_tints": {}
+}
